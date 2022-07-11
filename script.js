@@ -1,7 +1,7 @@
 import {
   mainLinks,
   cards
-} from '/assets/cards.js';
+} from './assets/cards.js';
 
 function wait(ms = 0) {
   return new Promise((resolve) => {
